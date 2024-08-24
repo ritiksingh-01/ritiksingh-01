@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritiksingh-01" alt="ritiksingh-01" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://hackernoon.com/images/f2px36fy.gif"
+<img align="right" alt="coding" width="400" src="[https://hackernoon.com/images/f2px36fy.gif](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)"
 
 - 🌱 I’m currently learning **Python|UI/UX|Data Structures & Algorithms With C++**
 
