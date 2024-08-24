@@ -21,7 +21,7 @@
 📄 Learn more about my experiences: <a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:4a0d7a31-0461-45a1-9858-8b1c1e1c3950" target="_blank"><strong>My Resume</strong></a>
 </p>
 
-<h3 align="left">Social:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ritik-singh-019597273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ritik Singh LinkedIn" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ritiksingh_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ritik Singh LeetCode" height="30" width="40" /></a>
