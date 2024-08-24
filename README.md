@@ -18,7 +18,7 @@
 📫 Feel free to reach out to me at: <a href="mailto:ritiksingh.rsr01@gmail.com"><strong>ritiksingh.rsr01@gmail.com</strong></a>
 </p>
 <p align="left">
-📄 Learn more about my experiences: <a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:4a0d7a31-0461-45a1-9858-8b1c1e1c3950" target="_blank"><strong>My Resume</strong></a>
+📄 Learn more about my experiences: <a href="https://drive.google.com/file/d/1sRSddOq6HqUyYrHyfyqaQxyvhGu47ean/view?usp=drive_link" target="_blank"><strong>My Resume</strong></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
