@@ -23,7 +23,7 @@
   To learn more about my professional experiences, please view my <a href="https://drive.google.com/file/d/1sRSddOq6HqUyYrHyfyqaQxyvhGu47ean/view?usp=drive_link" target="_blank"><strong>Resume</strong></a>.
 </p>
 
-<h3 align="left">Connect with Me:</h3>
+## Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/ritik-singh-019597273" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -36,7 +36,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -51,30 +51,32 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git " width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40 " height="40"/>
   </a>
 </p>
 
-<h3 align="left">Support My Work:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/ritiksingh01" target="_blank">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-  </a>
-</p>
+## GitHub Stats
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritiksingh-01&theme=2077" alt="Profile Summary">
+</td>
+</tr>
+</table>
 
-<br><br><br>
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=ritiksingh-01&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=ritiksingh-01&theme=midnight-purple" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
 
-<h3 align="left">GitHub Stats:</h3>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritiksingh-01&" alt="GitHub Streak" width="400" height="200" />
-</p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritiksingh-01&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" height="200" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritiksingh-01&show_icons=true&locale=en" alt="GitHub Stats" width="400" height="200" />
-</p>
-
-<h3 align="left">Open Source Programs & Achievements</h3>
+## Open Source Programs & Achievements
 
 <div>
   <table style="margin-left: 0;">
@@ -115,4 +117,14 @@
     </tr>
   </table>
 </div>
- <a href="https://holopin.me/ritiksingh01">   <img src="https://holopin.me/ritiksingh01" alt="@@ritiksingh01 Holopin board" /> </a> 
+<a href="https://holopin.me/ritiksingh01">   <img src="https://holopin.me/ritiksingh01" alt="@@ritiksingh01 Holopin board" /> </a>
+
+<br><br>
+<p align="center">
+  <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
+</p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/ritiksingh01" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"/>
+  </a>
+</p>
