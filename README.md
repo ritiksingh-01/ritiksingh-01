@@ -1,30 +1,30 @@
-<h1 align="center">Hi 👋, I'm Ritik</h1>
-<h3 align="center">Computer Science Engineering Student Specializing in AI & Data Science</h3>
+<h1 align="center" style="font-family: 'Poppins', sans-serif;">Hi 👋, I'm <span style="color: red;">Ritik</span></h1>
+<h3 align="center" style="font-family: 'Poppins', sans-serif;">Computer Science Engineering Student Specializing in AI & Data Science</h3>
 
-<p align="left">
+<p align="left" style="font-family: 'Poppins', sans-serif;">
   <img src="https://komarev.com/ghpvc/?username=ritiksingh-01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-<p align="left">
+<p align="left" style="font-family: 'Poppins', sans-serif;">
   I am currently a 3rd student pursuing a Bachelor of Technology in <strong>Computer Science Engineering</strong>, specializing in <strong>Artificial Intelligence</strong> and <strong>Data Science</strong>.
 </p>
-<p align="left">
+<p align="left" style="font-family: 'Poppins', sans-serif;">
   I have a strong command of programming languages including <strong>C</strong>, <strong>C++</strong>, and <strong>Python</strong>. I am also passionate about <strong>UI/UX Design</strong> and have developed substantial expertise in this field.
 </p>
-<p align="left">
+<p align="left" style="font-family: 'Poppins', sans-serif;">
   At present, I am expanding my knowledge in <strong>UI/UX</strong>, and <strong>Data Structures & Algorithms using C++</strong>.
 </p>
-<p align="left">
+<p align="left" style="font-family: 'Poppins', sans-serif;">
   Please feel free to reach out to me at: <a href="mailto:ritiksingh.rsr01@gmail.com"><strong>ritiksingh.rsr01@gmail.com</strong></a>
 </p>
-<p align="left">
+<p align="left" style="font-family: 'Poppins', sans-serif;">
   To learn more about my professional experiences, please view my <a href="https://drive.google.com/file/d/1sRSddOq6HqUyYrHyfyqaQxyvhGu47ean/view?usp=drive_link" target="_blank"><strong>Resume</strong></a>.
 </p>
 
 ## Connect with Me
-<p align="left">
+<p align="left" style="font-family: 'Poppins', sans-serif;">
   <a href="https://linkedin.com/in/ritik-singh-019597273" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -37,7 +37,7 @@
 </p>
 
 ## Languages and Tools
-<p align="left">
+<p align="left" style="font-family: 'Poppins', sans-serif;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -57,38 +57,37 @@
 
 ## GitHub Stats
 <table width="100%" align="center">
-<tr>
-<td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritiksingh-01&theme=2077" alt="Profile Summary">
-</td>
-</tr>
+  <tr>
+    <td>
+      <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritiksingh-01&theme=2077" alt="Profile Summary" style="font-family: 'Poppins', sans-serif;">
+    </td>
+  </tr>
 </table>
 
 <table width="100%" align="center">
-<tr>
-<td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=ritiksingh-01&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats"/>
-</td>
-<td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=ritiksingh-01&theme=midnight-purple" alt="Streak Stats"/>
-</td>
-</tr>
+  <tr>
+    <td>
+      <img width="400em" src="https://github-readme-stats.vercel.app/api?username=ritiksingh-01&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats" style="font-family: 'Poppins', sans-serif;"/>
+    </td>
+    <td>
+      <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=ritiksingh-01&theme=midnight-purple" alt="Streak Stats" style="font-family: 'Poppins', sans-serif;"/>
+    </td>
+  </tr>
 </table>
-
 
 ## Open Source Programs & Achievements
 
 <div>
-  <table style="margin-left: 0;">
+  <table style="margin-left: 0;" align="center">
     <tr align="center">
-      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
+      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%" align="left" style="font-family: 'Poppins', sans-serif;">
         <a href="">
           <img src="https://github.com/ananyag309/ananyag309/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="120" />
           <br>
           <strong>GirlScript Summer of Code</strong>
         </a>
       </td>
-      <td style="padding: 15px;" valign="top" width="50%">
+      <td style="padding: 15px;" valign="top" width="50%" align="left" style="font-family: 'Poppins', sans-serif;">
         <table>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
@@ -114,16 +113,21 @@
           </tr>
         </table>
       </td>
-    </tr>
+    </tr >
   </table>
 </div>
-<a href="https://holopin.me/ritiksingh01">   <img src="https://holopin.me/ritiksingh01" alt="@@ritiksingh01 Holopin board" /> </a>
-
-<br><br>
-<p align="center">
+<div>
+  
+## Holopin Badge 
+  
+<a href="https://holopin.me/ritiksingh01">   <img src="https://holopin.me/ritiksingh01" alt="@@ritiksingh01 Holopin board" style="font-family: 'Poppins', sans-serif;"/> </a>
+  
+## 
+<br>
+<p align="center" style="font-family: 'Poppins', sans-serif;">
   <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
 </p>
-<p align="center">
+<p align="center" style="font-family: 'Poppins', sans-serif;">
   <a href="https://www.buymeacoffee.com/ritiksingh01" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"/>
   </a>
