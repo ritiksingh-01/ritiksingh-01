@@ -101,9 +101,9 @@
               <strong>Adventurer Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Champion%20Badge.png" alt="Champion Badge" width="80" />
+              <img src="https://github.com/user-attachments/assets/493ea6c8-cdcb-4345-97ae-825a798c65fa" alt="Trailblazer Badge" width="80" />
               <br>
-              <strong>Champion Badge</strong>
+              <strong>Trailblazer Badge</strong>
             </td>
             <td style="padding: 10px;" width="100">
               <img src="https://github.com/ananyag309/ananyag309/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
