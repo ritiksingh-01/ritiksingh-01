@@ -75,48 +75,15 @@
   </tr>
 </table>
 
-## Open Source Programs & Achievements
-
-<div>
-  <table style="margin-left: 0;" align="center">
-    <tr align="center">
-      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%" align="left" style="font-family: 'Poppins', sans-serif;">
-        <a href="">
-          <img src="https://github.com/ananyag309/ananyag309/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="120" />
-          <br>
-          <strong>GirlScript Summer of Code</strong>
-        </a>
-      </td>
-      <td style="padding: 15px;" valign="top" width="50%" align="left" style="font-family: 'Poppins', sans-serif;">
-        <table>
-          <tr align="center">
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
-              <br>
-              <strong>Explorer Badge</strong>
-            </td>
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
-              <br>
-              <strong>Adventurer Badge</strong>
-            </td>
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/user-attachments/assets/493ea6c8-cdcb-4345-97ae-825a798c65fa" alt="Trailblazer Badge" width="80" />
-              <br>
-              <strong>Trailblazer Badge</strong>
-            </td>
-            <td style="padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
-              <br>
-              <strong>Summit Seeker Badge</strong>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr >
-  </table>
+## GSSOC(24) Badges 
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /></a>
 </div>
-<div>
   
 ## Holopin Badge 
   
