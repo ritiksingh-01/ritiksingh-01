@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Poppins', sans-serif;">Hi 👋, I'm <span style="color: red;">Ritik</span></h1>
+<h1 align="center" style="font-family: 'Poppins', sans-serif;">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="meetjain1" /> I'm <span style="color: red;">Ritik</span></h1>
 <h3 align="center" style="font-family: 'Poppins', sans-serif;">Computer Science Engineering Student Specializing in AI & Data Science</h3>
 
 <p align="left" style="font-family: 'Poppins', sans-serif;">
